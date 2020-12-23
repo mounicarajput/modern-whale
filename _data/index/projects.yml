@@ -1,4 +1,4 @@
-- name: Steel
+- name: Steel-defect-detection
   i18n: jalpc
   gh_user: jarrekk
   repo: Jalpc
