@@ -6,7 +6,8 @@
 - last_name: 'Developer Student Club, MDU'
   first_name: ''
   desc: Lead
-  website: ''
+  website: >-
+    https://dsc.community.dev/university-institute-of-engineering-and-technology-maharshi-dayanand-university-rohtak/
   email: uietdsc@gmail.com
 - last_name: LN
   first_name: FN
