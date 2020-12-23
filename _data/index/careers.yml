@@ -36,7 +36,7 @@
     detail: sep. 2019
     i18n: lorem-ipsum
   job:
-    detail: lorem-ipsum
+    detail: ''
     i18n: lorem-ipsum
   icon: lorem-ipsum
   present: false
