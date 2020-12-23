@@ -3,7 +3,7 @@
   gh_user: jarrekk
   repo: Jalpc
   img: /static/assets/img/landing/jekyll.png
-  desc: ''
+  desc: Real-time Detection of Steel Strip Surface Defects
 - name: Python
   i18n: cpython
   gh_user: python
