@@ -7,7 +7,7 @@ keywords: DATA SCIENCE
 categories:
   - DATA SCIENCE
 tags:
-  - ''
+  - Data Science
   - Jekyll
 icon: icon-DATA SCIENCE
 ---
