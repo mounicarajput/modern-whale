@@ -13,7 +13,7 @@
   icon: fa-plus-square
   present: true
 - name:
-    detail: Company B
+    detail: Twimbit
     i18n: company_b
   desc:
     detail: I worked at Company B ...
