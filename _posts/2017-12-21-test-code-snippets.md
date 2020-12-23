@@ -7,7 +7,7 @@ keywords: DATA SCIENCE
 categories:
   - DATA SCIENCE
 tags:
-  - Jalpc
+  - ''
   - Jekyll
 icon: icon-DATA SCIENCE
 ---
