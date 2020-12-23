@@ -1,6 +1,6 @@
 - name:
     detail: Marj Technologies
-    i18n: company_a
+    i18n: ''
   desc:
     detail: I worked at Company A ...
     i18n: company_a_desc
