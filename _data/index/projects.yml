@@ -8,7 +8,6 @@
   i18n: cpython
   gh_user: ''
   repo: ''
-  img: /static/assets/img/landing/python.png
   desc: Real- time custom ocr on metal tags
 - name: Data visualization & preprocessing
   i18n: google
