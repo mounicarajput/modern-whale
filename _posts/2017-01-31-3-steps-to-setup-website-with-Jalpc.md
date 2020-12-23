@@ -7,7 +7,7 @@ keywords: 'Jalpc,Jekyll,gh-pages,website,blog,eas'
 categories:
   - DATA SCINCE
 tags:
-  - Jalpc
+  - Data Science
   - Jekyll
 icon: icon-DATA SCIENCE
 ---
