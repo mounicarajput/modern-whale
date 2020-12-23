@@ -8,7 +8,7 @@ categories:
   - DATA SCINCE
 tags:
   - Data Science
-  - Jekyll
+  - AI
 icon: icon-DATA SCIENCE
 ---
  After reading this article you will get the basic understanding of Data Science process .🤩
