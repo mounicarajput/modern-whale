@@ -6,7 +6,7 @@
   desc: Real-time Detection of Steel Strip Surface Defects
 - name: monika rajput
   i18n: cpython
-  gh_user: python
+  gh_user: ''
   repo: ''
   img: /static/assets/img/landing/python.png
   desc: Real- time custom ocr on metal tags
