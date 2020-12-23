@@ -26,3 +26,17 @@
     i18n: company_b_job
   icon: fa-plus-square
   present: false
+- name:
+    detail: lorem-ipsum
+    i18n: lorem-ipsum
+  desc:
+    detail: lorem-ipsum
+    i18n: lorem-ipsum
+  date:
+    detail: lorem-ipsum
+    i18n: lorem-ipsum
+  job:
+    detail: lorem-ipsum
+    i18n: lorem-ipsum
+  icon: lorem-ipsum
+  present: false
