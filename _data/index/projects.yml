@@ -3,6 +3,7 @@
   gh_user: ''
   repo: 'https://github.com/monika0123/steel-defect-detection'
   desc: Real-time Detection of Steel Strip Surface Defects
+  url: 'https://github.com/monika0123/steel-defect-detection'
 - name: OCR
   i18n: cpython
   gh_user: ''
