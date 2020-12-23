@@ -9,9 +9,7 @@
   gh_user: python
   repo: cpython
   img: /static/assets/img/landing/python.png
-  desc: >-
-    This project is other's project. I use another request to get repo's
-    information.
+  desc: ''
 - name: Google
   i18n: google
   url: 'https://google.com'
