@@ -22,7 +22,7 @@
     detail: Jan. 2020
     i18n: company_b_date
   job:
-    detail: Data Scientist
+    detail: Data Scientist Intern
     i18n: company_b_job
   icon: fa-plus-square
   present: false
