@@ -27,7 +27,7 @@
   icon: fa-plus-square
   present: false
 - name:
-    detail: Kritrim
+    detail: Kritrim.io
     i18n: lorem-ipsum
   desc:
     detail: lorem-ipsum
