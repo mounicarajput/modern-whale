@@ -10,7 +10,7 @@
   repo: cpython
   img: /static/assets/img/landing/python.png
   desc: Real- time custom ocr on metal tags
-- name: visualization & datapreprocessing
+- name: visualization & data preprocessing
   i18n: google
   url: 'https://google.com'
   img: /static/assets/img/landing/google.png
