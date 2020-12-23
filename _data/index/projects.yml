@@ -1,5 +1,5 @@
 - name: Steel-defect-detection
-  i18n: ''
+  i18n: steel-defect-detection
   gh_user: ''
   repo: ''
   img: /static/assets/img/landing/jekyll.png
