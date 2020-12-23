@@ -24,7 +24,7 @@ Look above, here people are fighting with each other to show their capability an
 
 Now what is optimization? — Optimization is the process of making something better or we can say finding the values of inputs in such a way that we get the “best” output values.
 
-###### GAs working
+**GAs working**
 
 In Genetic Algorithms, we have a population of possible solutions to the given problem. These solutions then undergo recombination and mutation (like in natural genetics), producing new children, and the process is repeated over various generations. Each individual (or candidate solution) is assigned a fitness value (based on its objective function value) and the fitter individuals are given a higher chance to mate and yield more “fitter” individuals. This is in line with the Darwinian Theory of “Survival of the Fittest”.
 
