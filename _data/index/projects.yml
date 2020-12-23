@@ -1,7 +1,7 @@
 - name: Steel-defect-detection
   i18n: steel-defect-detection
   gh_user: ''
-  repo: ''
+  repo: 'https://github.com/monika0123/steel-defect-detection'
   img: /static/assets/img/landing/jekyll.png
   desc: Real-time Detection of Steel Strip Surface Defects
 - name: monika rajput
