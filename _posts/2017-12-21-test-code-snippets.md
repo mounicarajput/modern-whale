@@ -5,7 +5,7 @@ date: '2020-04-18'
 desc: Building generations by Genetic algorithm
 keywords: DATA SCIENCE
 categories:
-  - HTML
+  - DATA SCIENCE
 tags:
   - Jalpc
   - Jekyll
