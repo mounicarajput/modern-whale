@@ -3,7 +3,7 @@ layout: post
 title: Building generations by Genetic algorithm
 date: '2020-04-18'
 desc: Building generations by Genetic algorithm
-keywords: 'Jalpc,Jekyll,gh-pages,website,blog,easy'
+keywords: ''
 categories:
   - HTML
 tags:
