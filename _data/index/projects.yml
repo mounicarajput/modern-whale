@@ -9,7 +9,7 @@
   gh_user: python
   repo: cpython
   img: /static/assets/img/landing/python.png
-  desc: ''
+  desc: 'Real- time custom ocr '
 - name: Google
   i18n: google
   url: 'https://google.com'
