@@ -2,7 +2,7 @@
 layout: post
 title: Building generations by Genetic algorithm
 date: '2020-04-18'
-desc: Quick test on writing code snippets in a blog post
+desc: s in a blog post
 keywords: 'Jalpc,Jekyll,gh-pages,website,blog,easy'
 categories:
   - HTML
