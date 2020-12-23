@@ -27,7 +27,7 @@
   icon: fa-plus-square
   present: false
 - name:
-    detail: 'Kritrim.io (San '
+    detail: 'Kritrim.io (San Ramon, California)'
     i18n: lorem-ipsum
   desc:
     detail: I was working on a ML4ALL Project as a Data Scientist
