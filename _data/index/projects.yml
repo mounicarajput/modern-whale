@@ -1,6 +1,6 @@
 - name: Steel-defect-detection
   i18n: ''
-  gh_user: ''
+  gh_user: xfg
   repo: 'https://github.com/monika0123/steel-defect-detection'
   desc: Real-time Detection of Steel Strip Surface Defects
 - name: monika rajput
