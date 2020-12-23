@@ -16,7 +16,7 @@
     detail: Twimbit
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: 'I worked at '
     i18n: company_b_desc
   date:
     detail: Jun. 2015
