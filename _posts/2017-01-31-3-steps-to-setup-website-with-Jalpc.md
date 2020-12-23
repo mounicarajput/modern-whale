@@ -2,7 +2,7 @@
 layout: post
 title: Jump into Data Science
 date: '2017-01-31'
-desc: 3 Steps (2 minutes) to Setup Your Personal Website with Jalpc
+desc: ''
 keywords: 'Jalpc,Jekyll,gh-pages,website,blog,eas'
 categories:
   - DATA SCINCE
