@@ -2,15 +2,18 @@
   i18n: ''
   gh_user: ''
   repo: 'https://github.com/monika0123/steel-defect-detection'
+  img: /static/assets/img/landing/jekyll.png
   desc: Real-time Detection of Steel Strip Surface Defects
   url: 'https://github.com/monika0123/steel-defect-detection'
 - name: OCR
   i18n: cpython
   gh_user: ''
   repo: ''
+  img: /static/assets/img/landing/python.png
   desc: Real- time custom ocr on metal tags
 - name: Data visualization & preprocessing
   i18n: google
   url: 'https://github.com/monika0123/visualization-and-data-preprocessing'
   desc: 'All Data Visualization Techniques '
   repo: 'https://github.com/monika0123/visualization-and-data-preprocessing'
+  img: /static/assets/img/landing/google.png
