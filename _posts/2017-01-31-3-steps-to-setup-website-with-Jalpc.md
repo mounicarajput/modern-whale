@@ -37,12 +37,12 @@ Top 3 visualisation libraries of python you should know
 Matplotlib is the most popular data visualisation library of python and is a 2D plotting library . It comes with an interactive environment across platforms. It is a very versatile visualisation library . With this library, with just a few lines of code, one can generates a plots, bar charts , histograms , scatterplots, error charts , pie charts and many other types.
 Image for post
 
-* ** Plotly**
+* **Plotly**
 
 Plotly is a web-based toolkit to form data visualisations. It has a great API , with unique functionalities such as contour plots , dendrograms , and 3D charts, it has visualisations like scatter plots, line charts ,bar charts , multiple axes and many others. It contains a great API including one for python.
 Image for post
 
-* ** Seaborn**
+* **Seaborn**
 
 Seaborn provides an API on top of Matplotlib that offers same choices for plots style and color defaults , define simple high-level functions for common statistical plot types and integrates with the functionality provides by Pandas DataFrame.
 Image for post
