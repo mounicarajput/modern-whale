@@ -3,7 +3,7 @@
   gh_user: jarrekk
   repo: Jalpc
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I us
+  desc: ''
 - name: Python
   i18n: cpython
   gh_user: python
