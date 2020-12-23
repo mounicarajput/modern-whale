@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jump into Data Science
-date: '2017-01-31'
+date: '2017-02-28'
 desc: Jump into Data Science
 keywords: 'Jalpc,Jekyll,gh-pages,website,blog,eas'
 categories:
