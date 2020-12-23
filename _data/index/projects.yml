@@ -4,7 +4,7 @@
   repo: Jalpc
   img: /static/assets/img/landing/jekyll.png
   desc: Real-time Detection of Steel Strip Surface Defects
-- name: Python
+- name: OCR
   i18n: cpython
   gh_user: python
   repo: cpython
