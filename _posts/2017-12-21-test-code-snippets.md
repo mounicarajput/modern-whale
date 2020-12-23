@@ -9,7 +9,7 @@ categories:
 tags:
   - Jalpc
   - Jekyll
-icon: icon-html
+icon: icon-
 ---
 
 This is a raw snippet:
