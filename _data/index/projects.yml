@@ -1,16 +1,16 @@
-- name: monika rajput
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
+- name: Steel-defect-detection
+  i18n: ''
+  gh_user: ''
+  repo: 'https://github.com/monika0123/steel-defect-detection'
   desc: Real-time Detection of Steel Strip Surface Defects
-- name: monika rajput
+  url: 'https://github.com/monika0123/steel-defect-detection'
+- name: OCR
   i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
+  gh_user: ''
+  repo: ''
   desc: Real- time custom ocr on metal tags
 - name: Data visualization & preprocessing
   i18n: google
   url: 'https://github.com/monika0123/visualization-and-data-preprocessing'
   desc: 'All Data Visualization Techniques '
+  repo: 'https://github.com/monika0123/visualization-and-data-preprocessing'
