@@ -1,10 +1,10 @@
-- name: Steel-defect-detection
+- name: monika rajput
   i18n: jalpc
   gh_user: jarrekk
   repo: Jalpc
   img: /static/assets/img/landing/jekyll.png
   desc: Real-time Detection of Steel Strip Surface Defects
-- name: OCR
+- name: monika rajput
   i18n: cpython
   gh_user: python
   repo: cpython

@@ -1,18 +1,16 @@
-# links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
-
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
-
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: Monika Rajput
+  first_name: null
+  desc: Data Scientist
+  website: monikarajput.tech
+  email: rajputmonika953@gmail.com
+- last_name: 'Developer Student Club, MDU'
+  first_name: ''
+  desc: Lead
+  website: >-
+    https://dsc.community.dev/university-institute-of-engineering-and-technology-maharshi-dayanand-university-rohtak/
+  email: uietdsc@gmail.com
+- last_name: Professional Contact
+  first_name: ''
+  desc: AI Engineer at MARJ
+  website: 'https://github.com'
+  email: monika@marjtechnologies.com
