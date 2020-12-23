@@ -7,7 +7,7 @@
 - name: monika rajput
   i18n: cpython
   gh_user: python
-  repo: cpython
+  repo: ''
   img: /static/assets/img/landing/python.png
   desc: Real- time custom ocr on metal tags
 - name: Data visualization & preprocessing
