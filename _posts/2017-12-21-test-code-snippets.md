@@ -8,7 +8,7 @@ categories:
   - DATA SCIENCE
 tags:
   - Data Science
-  - Jekyll
+  - AI
 icon: icon-DATA SCIENCE
 ---
 > It is not the strongest of the species that survives, nor the most intelligent , but the one most responsive to change
