@@ -9,7 +9,7 @@ categories:
 tags:
   - Jalpc
   - Jekyll
-icon: icon-
+icon: icon-P
 ---
  After reading this article you will get the basic understanding of Data Science process .🤩
  
