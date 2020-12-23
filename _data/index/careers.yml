@@ -38,5 +38,5 @@
   job:
     detail: Data Scientist
     i18n: lorem-ipsum
-  icon: lorem-ipsum
+  icon: fa-plus-square
   present: false
