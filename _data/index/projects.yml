@@ -2,7 +2,6 @@
   i18n: ''
   gh_user: ''
   repo: 'https://github.com/monika0123/steel-defect-detection'
-  img: /static/assets/img/landing/jekyll.png
   desc: Real-time Detection of Steel Strip Surface Defects
 - name: monika rajput
   i18n: cpython
