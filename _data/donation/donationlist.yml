@@ -1,53 +1,45 @@
-# donation list
-
-- name: Christ Maximilian
+- name: ''
   account: i****n@yahoo.de
   type: eur
   value: 3.5
-  date: 2017-07-19
-
+  date: '2017-07-19'
 - name: Peter Yang
   account: 40*****12@qq.com
   type: rmb
   value: 10
-  date: 2017-04-03
-
+  date: '2017-04-03'
 - name: Kun Liu
   account: 187****6486
-  github:
-  website:
+  github: null
+  website: null
   type: rmb
   value: 50
-  date: 2017-02-25
-
+  date: '2017-02-25'
 - name: Celine Yu
   account: 80*****94@qq.com
   github: YUJING1993
-  website: http://angular.jack003.com
+  website: 'http://angular.jack003.com'
   type: rmb
   value: 50
-  date: 2016-11-20
-
+  date: '2016-11-20'
 - name: Wenwei Zhou
   account: 152****2589
   github: wenwei8268
-  website:
+  website: null
   type: rmb
   value: 5
-  date: 2016-12-02
-
+  date: '2016-12-02'
 - name: Hongbin Huo
   account: 136****2534
   github: HorbieHuo
-  website:
+  website: null
   type: rmb
   value: 10
-  date: 2016-12-21
-
+  date: '2016-12-21'
 - name: Xiaolong Li
   account: 186****0489
   github: flylixiaolong
-  website:
+  website: null
   type: rmb
   value: 50
-  date: 2016-01-03
+  date: '2016-01-03'
