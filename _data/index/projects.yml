@@ -9,6 +9,7 @@
   gh_user: ''
   repo: ''
   desc: Real- time custom ocr on metal tags
+  url: 'https://github.com/monika0123/ocr_on_steel'
 - name: Data visualization & preprocessing
   i18n: google
   url: 'https://github.com/monika0123/visualization-and-data-preprocessing'
